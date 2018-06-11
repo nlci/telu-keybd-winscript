@@ -1,0 +1,19 @@
+kmfl-keyboard-telugu (1.001.1) unstable; urgency=low
+
+  * Refactored packaging.
+
+ -- Indic Dev <indic_dev@sil.org>  Wed, 13 Mar 2013 08:39:19 -0600
+
+kmfl-keyboard-telugu (1.001) unstable; urgency=low
+
+  * Changed license to X11.
+  * Meta-information is now stored in VCS,
+    so it does not need to be in the .kmn file.
+
+ -- Indic Dev <indic_dev@sil.org>  Tue, 26 Feb 2013 16:58:56 -0700
+
+kmfl-keyboard-telugu (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Indic Dev <indic_dev@sil.org>  Sun, 16 Dec 2012 01:19:50 -0700
